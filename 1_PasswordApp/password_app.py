@@ -2,8 +2,9 @@
 from modules.functions import get_todos, write_todos
 from datetime import datetime
 
-
+# Anzeigedatum
 print(f"It´s the {datetime.now().strftime("date: %Y-%m-%d, time: %H:%M:%S")}") # shows the current date
+
 # If Statements
 while True:
     user_action = input("Type add, show, edit, complete or exit: ")

@@ -1,5 +1,5 @@
 
-#TODO: Erstelle eine GUI für deine TO-DO APP
+# Erstelle eine GUI für deine TO-DO APP
 
 from modules import functions
 import FreeSimpleGUI as sg
