@@ -23,6 +23,7 @@ layout = [
     [input_box, add_button],
     [list_box, edit_button]
 ]
+
 window = sg.Window('My to-do App', layout=layout, font=('Helvetica', 20))
 
 # Loop
