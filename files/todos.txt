@@ -4,3 +4,6 @@ go grocery
 go gym
 hello
 dff
+go bed
+do gym
+ and eat
