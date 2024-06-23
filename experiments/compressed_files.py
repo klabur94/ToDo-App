@@ -38,3 +38,4 @@ while True:
         window["output"].update(value="Compression completed!")  # Aktualisiert das Ausgabe-Label mit einer Erfolgsmeldung
 
 window.close()  # Schließt das Fenster, wenn die Schleife beendet wird
+
