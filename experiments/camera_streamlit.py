@@ -17,6 +17,7 @@ if camera_image is not None:
 
     # Zeigt das Graustufenbild in der Streamlit-App an
     st.image(gray_img)
+
 # ____________________________
 # Upload field for pdf´s
 
